@@ -16,3 +16,9 @@ Platform              : [Web](https://go.dev/tour/list)
 
 Programming Language  : [Go](https://go.dev/)
 ```
+
+## Recap : TBD
+
+- Tour of Golang
+- Simple Go-Api
+- Conccurrency
